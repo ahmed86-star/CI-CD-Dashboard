@@ -14,6 +14,27 @@ A modern, responsive dashboard for monitoring and managing deployment pipelines 
 - **Notification Center**: Stay updated with deployment alerts and configure notification preferences
 - **Deployment Controls**: Trigger builds, execute rollbacks, and send team notifications
 
+
+
+
+
+<img width="523" alt="Screenshot 2025-04-02 at 11 37 06 PM" src="https://github.com/user-attachments/assets/9959be26-fa15-46ca-ab3d-f30dc0b47a53" />
+
+
+
+
+<img width="433" alt="Screenshot 2025-04-02 at 11 37 40 PM" src="https://github.com/user-attachments/assets/a668bb8c-1d51-4826-890b-3f7a5cffaaa5" />
+
+
+
+
+
+
+
+
+
+
+
 ## Tech Stack
 
 - Next.js 14
